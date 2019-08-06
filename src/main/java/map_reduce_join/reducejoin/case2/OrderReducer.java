@@ -1,6 +1,5 @@
 package map_reduce_join.reducejoin.case2;
 
-import map_reduce_join.reducejoin.case1.OrderBean;
 import org.apache.hadoop.io.NullWritable;
 import org.apache.hadoop.mapreduce.Reducer;
 

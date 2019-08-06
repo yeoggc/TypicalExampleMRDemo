@@ -1,6 +1,5 @@
 package map_reduce_join.reducejoin.case2;
 
-import map_reduce_join.reducejoin.case1.OrderBean;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
